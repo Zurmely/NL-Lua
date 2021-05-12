@@ -1,4 +1,2 @@
 # NL-Lua
-Neverlose LUA repository.
-
-Contains LUA scripts and related data.
+Neverlose LUA repository, contains LUA scripts and related data.
